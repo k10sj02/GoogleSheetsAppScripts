@@ -4,7 +4,7 @@ Here is the revised version for your GitHub repository:
 
 This repository contains useful Google Apps Script functions for working with Google Sheets. The scripts currently included are:
 
-- **fillCellsWithNA.gs**: This script fills empty cells in a specified range with "N/A".
+- **fillCellsWithNA.gs**: This script fills empty cells in a specified range with "n/a".
 - **unmergeAllCells.gs**: This script unmerges all merged cells in a specified sheet.
 - **getHyperlink.gs**: This script retrieves all hyperlinks from a specified range.
 
