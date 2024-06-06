@@ -7,6 +7,7 @@ This repository contains useful Google Apps Script functions for working with Go
 - **fillCellsWithNA.gs**: This script fills empty cells in a specified range with "n/a".
 - **unmergeAllCells.gs**: This script unmerges all merged cells in a specified sheet.
 - **getHyperlink.gs**: This script retrieves all hyperlinks from a specified range.
+- **mailMerge.gs**: This script performs a mail merge on a list of email contacts.
 
 ## Table of Contents
 
@@ -15,6 +16,7 @@ This repository contains useful Google Apps Script functions for working with Go
   - [fillCellsWithNA](#fillcellswithna)
   - [unmergeAllCells](#unmergeallcells)
   - [getHyperlink](#gethyperlink)
+  - [mailMerge](#mailMerge)
 - [Contributing](#contributing)
 - [License](#license)
 
